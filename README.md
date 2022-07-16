@@ -2,7 +2,7 @@
 
 Hello Everyone!
 
-This is complete basic course of solidity programming language. 
+This is complete basic course of solidity programming language, in which we're exploring so many things like Remix IDE, MetaMask Wallet, Mainnet & Testnet, Writing Smart Contracts deploying on Ethereum Blockchain and AAnd .. ... and lots of things. 
 
 Checkout the course on YouTube by clicking the link below.
 
